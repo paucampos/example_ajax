@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+h3 {
+  text-align: center;
+}
+
+.head {
+  text-align: center;
+}
+
+.page {
+  height: 100vh;
+}
+
+.nyan {
+  width: 20%;
+}
+
+.page .boton {
+  background-color: #F9A91C;
+  border: 1px solid #dedede;
+  border-radius: 3px;
+  color: #555;
+  display: inline-block;
+  padding: 8px 11px;
+  text-decoration: none;
+}
+
+.center {
+  text-align: center;
+}

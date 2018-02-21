@@ -1,0 +1,16 @@
+{
+  "name": "exercise-ajax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Paula Campos",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
